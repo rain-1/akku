@@ -102,3 +102,16 @@ There is a new command to update the package index: `akku update`.
 ## Version 0.2.0
 
 This release comes with a dependency solver and a local package index.
+
+# Akku.scm release notes
+
+
+
+
+
+
+
+
+
+
+
